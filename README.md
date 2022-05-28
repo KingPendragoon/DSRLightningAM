@@ -17,12 +17,19 @@ of my uwu gaols readme at https://github.com/KingPendragoon/FFXIVJobPrioGaolAuto
 You will need F1-F9 set up with keybinds on the hotbar.
 
 F1: /mk attack <1>
+
 F2: /mk attack <2>
+
 F3: /mk attack <3>
+
 F4: /mk attack <4>
+
 F5; /mk attack <5>
+
 F6: /mk attack <6>
+
 F7: /mk attack <7>
+
 F8: /mk attack <8>
 
 F9
